@@ -3,11 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-# macOS
 .DS_Store
-
-# JetBrains Rider / IntelliJ
 .idea/
+bin/
+obj/
 
 # User-specific files
 *.rsuser
